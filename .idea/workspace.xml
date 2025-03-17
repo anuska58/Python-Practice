@@ -1,18 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9010fde-6df6-4fdb-a10e-0b7c3e1a03f0" name="Changes" comment="" />
+    <list default="true" id="b9010fde-6df6-4fdb-a10e-0b7c3e1a03f0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Average.py" beforeDir="false" afterPath="$PROJECT_DIR$/Average.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Daily Average Spending.py" beforeDir="false" afterPath="$PROJECT_DIR$/Daily Average Spending.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library Management.py" beforeDir="false" afterPath="$PROJECT_DIR$/Library Management.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StringManipulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/StringManipulation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agecalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/agecalculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assert.py" beforeDir="false" afterPath="$PROJECT_DIR$/assert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/availableBooks.py" beforeDir="false" afterPath="$PROJECT_DIR$/availableBooks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basicValidator.py" beforeDir="false" afterPath="$PROJECT_DIR$/basicValidator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cube.py" beforeDir="false" afterPath="$PROJECT_DIR$/cube.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eligibleVoter.py" beforeDir="false" afterPath="$PROJECT_DIR$/eligibleVoter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/evenodd.py" beforeDir="false" afterPath="$PROJECT_DIR$/evenodd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forLoop.py" beforeDir="false" afterPath="$PROJECT_DIR$/forLoop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qr_code_generation.py" beforeDir="false" afterPath="$PROJECT_DIR$/qr_code_generation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/random_guess.py" beforeDir="false" afterPath="$PROJECT_DIR$/random_guess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validatingPassword.py" beforeDir="false" afterPath="$PROJECT_DIR$/validatingPassword.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/whileLoop.py" beforeDir="false" afterPath="$PROJECT_DIR$/whileLoop.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library Management.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2tXXqga1HvGRLGWw3ADpzM5Bzxx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,8 +57,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Average.executor": "Run",
+    "Python.Daily Average Spending.executor": "Run",
+    "Python.Library Management.executor": "Run",
+    "Python.StringManipulation.executor": "Run",
+    "Python.agecalculator.executor": "Run",
+    "Python.assert.executor": "Run",
+    "Python.availableBooks.executor": "Run",
+    "Python.basicValidator.executor": "Run",
+    "Python.cube.executor": "Run",
+    "Python.eligibleVoter.executor": "Run",
+    "Python.evenodd.executor": "Run",
+    "Python.forLoop.executor": "Run",
+    "Python.qr_code_generation.executor": "Run",
+    "Python.random.executor": "Run",
+    "Python.random_guess.executor": "Run",
+    "Python.validatingPassword.executor": "Run",
+    "Python.whileLoop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
