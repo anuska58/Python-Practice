@@ -1,6 +1,0 @@
-[33mb87b90b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mrecovery-branch[m[33m)[m HEAD@{0}: checkout: moving from recovery-branch to main
-[33mb87b90b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mrecovery-branch[m[33m)[m HEAD@{1}: checkout: moving from b87b90b2f1d74223722bf5341b43ef8ebbb796ae to recovery-branch
-[33mb87b90b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mrecovery-branch[m[33m)[m HEAD@{2}: reset: moving to b87b90b
-[33mf9381a4[m HEAD@{3}: pull origin main --rebase (start): checkout f9381a43dd1ad6b50760692c03c2aafaa816eb69
-[33mb87b90b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mrecovery-branch[m[33m)[m HEAD@{4}: Branch: renamed refs/heads/main to refs/heads/main
-[33mb87b90b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mrecovery-branch[m[33m)[m HEAD@{6}: commit (initial): Initial commit
